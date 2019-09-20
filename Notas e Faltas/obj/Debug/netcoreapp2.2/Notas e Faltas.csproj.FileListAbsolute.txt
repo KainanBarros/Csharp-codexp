@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\obj\Debug\netcoreapp2.2\Notas e Faltas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\obj\Debug\netcoreapp2.2\Notas e Faltas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\obj\Debug\netcoreapp2.2\Notas e Faltas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\obj\Debug\netcoreapp2.2\Notas e Faltas.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\bin\Debug\netcoreapp2.2\Notas e Faltas.deps.json
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\bin\Debug\netcoreapp2.2\Notas e Faltas.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\bin\Debug\netcoreapp2.2\Notas e Faltas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\bin\Debug\netcoreapp2.2\Notas e Faltas.dll
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\bin\Debug\netcoreapp2.2\Notas e Faltas.pdb
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\obj\Debug\netcoreapp2.2\Notas e Faltas.dll
+C:\Users\fic\Desktop\Csharp\Notas e Faltas\obj\Debug\netcoreapp2.2\Notas e Faltas.pdb

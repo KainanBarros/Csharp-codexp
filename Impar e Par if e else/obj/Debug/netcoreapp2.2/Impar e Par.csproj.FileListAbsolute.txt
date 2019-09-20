@@ -1,0 +1,22 @@
+C:\Users\fic\Desktop\Csharp\Impar e Par\obj\Debug\netcoreapp2.2\Impar e Par.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Impar e Par\obj\Debug\netcoreapp2.2\Impar e Par.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Impar e Par\obj\Debug\netcoreapp2.2\Impar e Par.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Impar e Par\obj\Debug\netcoreapp2.2\Impar e Par.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Impar e Par\bin\Debug\netcoreapp2.2\Impar e Par.deps.json
+C:\Users\fic\Desktop\Csharp\Impar e Par\bin\Debug\netcoreapp2.2\Impar e Par.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Impar e Par\bin\Debug\netcoreapp2.2\Impar e Par.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Impar e Par\bin\Debug\netcoreapp2.2\Impar e Par.dll
+C:\Users\fic\Desktop\Csharp\Impar e Par\bin\Debug\netcoreapp2.2\Impar e Par.pdb
+C:\Users\fic\Desktop\Csharp\Impar e Par\obj\Debug\netcoreapp2.2\Impar e Par.dll
+C:\Users\fic\Desktop\Csharp\Impar e Par\obj\Debug\netcoreapp2.2\Impar e Par.pdb
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\bin\Debug\netcoreapp2.2\Impar e Par.deps.json
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\bin\Debug\netcoreapp2.2\Impar e Par.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\bin\Debug\netcoreapp2.2\Impar e Par.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\bin\Debug\netcoreapp2.2\Impar e Par.dll
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\bin\Debug\netcoreapp2.2\Impar e Par.pdb
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\obj\Debug\netcoreapp2.2\Impar e Par.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\obj\Debug\netcoreapp2.2\Impar e Par.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\obj\Debug\netcoreapp2.2\Impar e Par.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\obj\Debug\netcoreapp2.2\Impar e Par.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\obj\Debug\netcoreapp2.2\Impar e Par.dll
+C:\Users\fic\Desktop\Csharp\Impar e Par if e else\obj\Debug\netcoreapp2.2\Impar e Par.pdb

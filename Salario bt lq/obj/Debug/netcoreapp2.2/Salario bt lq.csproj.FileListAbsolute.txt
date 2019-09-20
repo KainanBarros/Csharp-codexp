@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Salario bt lq\bin\Debug\netcoreapp2.2\Salario bt lq.deps.json
+C:\Users\fic\Desktop\Csharp\Salario bt lq\bin\Debug\netcoreapp2.2\Salario bt lq.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Salario bt lq\bin\Debug\netcoreapp2.2\Salario bt lq.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Salario bt lq\bin\Debug\netcoreapp2.2\Salario bt lq.dll
+C:\Users\fic\Desktop\Csharp\Salario bt lq\bin\Debug\netcoreapp2.2\Salario bt lq.pdb
+C:\Users\fic\Desktop\Csharp\Salario bt lq\obj\Debug\netcoreapp2.2\Salario bt lq.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Salario bt lq\obj\Debug\netcoreapp2.2\Salario bt lq.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Salario bt lq\obj\Debug\netcoreapp2.2\Salario bt lq.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Salario bt lq\obj\Debug\netcoreapp2.2\Salario bt lq.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Salario bt lq\obj\Debug\netcoreapp2.2\Salario bt lq.dll
+C:\Users\fic\Desktop\Csharp\Salario bt lq\obj\Debug\netcoreapp2.2\Salario bt lq.pdb

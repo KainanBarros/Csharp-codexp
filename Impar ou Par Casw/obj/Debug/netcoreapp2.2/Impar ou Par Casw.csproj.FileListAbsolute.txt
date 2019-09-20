@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\obj\Debug\netcoreapp2.2\Impar ou Par Casw.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\obj\Debug\netcoreapp2.2\Impar ou Par Casw.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\obj\Debug\netcoreapp2.2\Impar ou Par Casw.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\obj\Debug\netcoreapp2.2\Impar ou Par Casw.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\bin\Debug\netcoreapp2.2\Impar ou Par Casw.deps.json
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\bin\Debug\netcoreapp2.2\Impar ou Par Casw.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\bin\Debug\netcoreapp2.2\Impar ou Par Casw.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\bin\Debug\netcoreapp2.2\Impar ou Par Casw.dll
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\bin\Debug\netcoreapp2.2\Impar ou Par Casw.pdb
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\obj\Debug\netcoreapp2.2\Impar ou Par Casw.dll
+C:\Users\fic\Desktop\Csharp\Impar ou Par Casw\obj\Debug\netcoreapp2.2\Impar ou Par Casw.pdb

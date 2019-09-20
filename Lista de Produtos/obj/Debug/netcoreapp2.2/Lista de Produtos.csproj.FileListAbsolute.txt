@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\obj\Debug\netcoreapp2.2\Lista de Produtos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\obj\Debug\netcoreapp2.2\Lista de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\obj\Debug\netcoreapp2.2\Lista de Produtos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\obj\Debug\netcoreapp2.2\Lista de Produtos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\bin\Debug\netcoreapp2.2\Lista de Produtos.deps.json
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\bin\Debug\netcoreapp2.2\Lista de Produtos.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\bin\Debug\netcoreapp2.2\Lista de Produtos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\bin\Debug\netcoreapp2.2\Lista de Produtos.dll
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\bin\Debug\netcoreapp2.2\Lista de Produtos.pdb
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\obj\Debug\netcoreapp2.2\Lista de Produtos.dll
+C:\Users\fic\Desktop\Csharp\Lista de Produtos\obj\Debug\netcoreapp2.2\Lista de Produtos.pdb

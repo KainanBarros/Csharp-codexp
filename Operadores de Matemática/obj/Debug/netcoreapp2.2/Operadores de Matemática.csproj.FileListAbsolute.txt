@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\obj\Debug\netcoreapp2.2\Operadores de Matemática.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\obj\Debug\netcoreapp2.2\Operadores de Matemática.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\obj\Debug\netcoreapp2.2\Operadores de Matemática.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\obj\Debug\netcoreapp2.2\Operadores de Matemática.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\bin\Debug\netcoreapp2.2\Operadores de Matemática.deps.json
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\bin\Debug\netcoreapp2.2\Operadores de Matemática.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\bin\Debug\netcoreapp2.2\Operadores de Matemática.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\bin\Debug\netcoreapp2.2\Operadores de Matemática.dll
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\bin\Debug\netcoreapp2.2\Operadores de Matemática.pdb
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\obj\Debug\netcoreapp2.2\Operadores de Matemática.dll
+C:\Users\fic\Desktop\Csharp\Operadores de Matemática\obj\Debug\netcoreapp2.2\Operadores de Matemática.pdb

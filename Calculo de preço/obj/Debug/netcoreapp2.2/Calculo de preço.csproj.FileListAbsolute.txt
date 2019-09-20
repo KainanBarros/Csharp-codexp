@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Calculo de preço\bin\Debug\netcoreapp2.2\Calculo de preço.deps.json
+C:\Users\fic\Desktop\Csharp\Calculo de preço\bin\Debug\netcoreapp2.2\Calculo de preço.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Calculo de preço\bin\Debug\netcoreapp2.2\Calculo de preço.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Calculo de preço\bin\Debug\netcoreapp2.2\Calculo de preço.dll
+C:\Users\fic\Desktop\Csharp\Calculo de preço\bin\Debug\netcoreapp2.2\Calculo de preço.pdb
+C:\Users\fic\Desktop\Csharp\Calculo de preço\obj\Debug\netcoreapp2.2\Calculo de preço.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Calculo de preço\obj\Debug\netcoreapp2.2\Calculo de preço.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Calculo de preço\obj\Debug\netcoreapp2.2\Calculo de preço.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Calculo de preço\obj\Debug\netcoreapp2.2\Calculo de preço.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Calculo de preço\obj\Debug\netcoreapp2.2\Calculo de preço.dll
+C:\Users\fic\Desktop\Csharp\Calculo de preço\obj\Debug\netcoreapp2.2\Calculo de preço.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Criando escadinha\obj\Debug\netcoreapp2.2\Criando escadinha.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Criando escadinha\obj\Debug\netcoreapp2.2\Criando escadinha.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Criando escadinha\obj\Debug\netcoreapp2.2\Criando escadinha.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Criando escadinha\obj\Debug\netcoreapp2.2\Criando escadinha.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Criando escadinha\bin\Debug\netcoreapp2.2\Criando escadinha.deps.json
+C:\Users\fic\Desktop\Csharp\Criando escadinha\bin\Debug\netcoreapp2.2\Criando escadinha.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Criando escadinha\bin\Debug\netcoreapp2.2\Criando escadinha.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Criando escadinha\bin\Debug\netcoreapp2.2\Criando escadinha.dll
+C:\Users\fic\Desktop\Csharp\Criando escadinha\bin\Debug\netcoreapp2.2\Criando escadinha.pdb
+C:\Users\fic\Desktop\Csharp\Criando escadinha\obj\Debug\netcoreapp2.2\Criando escadinha.dll
+C:\Users\fic\Desktop\Csharp\Criando escadinha\obj\Debug\netcoreapp2.2\Criando escadinha.pdb

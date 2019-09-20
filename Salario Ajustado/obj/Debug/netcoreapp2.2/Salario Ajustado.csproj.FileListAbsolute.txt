@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\bin\Debug\netcoreapp2.2\Salario Ajustado.deps.json
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\bin\Debug\netcoreapp2.2\Salario Ajustado.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\bin\Debug\netcoreapp2.2\Salario Ajustado.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\bin\Debug\netcoreapp2.2\Salario Ajustado.dll
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\bin\Debug\netcoreapp2.2\Salario Ajustado.pdb
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\obj\Debug\netcoreapp2.2\Salario Ajustado.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\obj\Debug\netcoreapp2.2\Salario Ajustado.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\obj\Debug\netcoreapp2.2\Salario Ajustado.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\obj\Debug\netcoreapp2.2\Salario Ajustado.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\obj\Debug\netcoreapp2.2\Salario Ajustado.dll
+C:\Users\fic\Desktop\Csharp\Salario Ajustado\obj\Debug\netcoreapp2.2\Salario Ajustado.pdb

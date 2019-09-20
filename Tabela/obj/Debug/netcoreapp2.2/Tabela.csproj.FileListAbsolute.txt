@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Tabela\obj\Debug\netcoreapp2.2\Tabela.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Tabela\obj\Debug\netcoreapp2.2\Tabela.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Tabela\obj\Debug\netcoreapp2.2\Tabela.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Tabela\obj\Debug\netcoreapp2.2\Tabela.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Tabela\bin\Debug\netcoreapp2.2\Tabela.deps.json
+C:\Users\fic\Desktop\Csharp\Tabela\bin\Debug\netcoreapp2.2\Tabela.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Tabela\bin\Debug\netcoreapp2.2\Tabela.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Tabela\bin\Debug\netcoreapp2.2\Tabela.dll
+C:\Users\fic\Desktop\Csharp\Tabela\bin\Debug\netcoreapp2.2\Tabela.pdb
+C:\Users\fic\Desktop\Csharp\Tabela\obj\Debug\netcoreapp2.2\Tabela.dll
+C:\Users\fic\Desktop\Csharp\Tabela\obj\Debug\netcoreapp2.2\Tabela.pdb

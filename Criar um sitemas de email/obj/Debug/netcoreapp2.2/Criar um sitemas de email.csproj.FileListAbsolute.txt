@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\obj\Debug\netcoreapp2.2\Criar um sitemas de email.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\obj\Debug\netcoreapp2.2\Criar um sitemas de email.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\obj\Debug\netcoreapp2.2\Criar um sitemas de email.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\obj\Debug\netcoreapp2.2\Criar um sitemas de email.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\bin\Debug\netcoreapp2.2\Criar um sitemas de email.deps.json
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\bin\Debug\netcoreapp2.2\Criar um sitemas de email.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\bin\Debug\netcoreapp2.2\Criar um sitemas de email.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\bin\Debug\netcoreapp2.2\Criar um sitemas de email.dll
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\bin\Debug\netcoreapp2.2\Criar um sitemas de email.pdb
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\obj\Debug\netcoreapp2.2\Criar um sitemas de email.dll
+C:\Users\fic\Desktop\Csharp\Criar um sitemas de email\obj\Debug\netcoreapp2.2\Criar um sitemas de email.pdb
