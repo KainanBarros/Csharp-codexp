@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\bin\Debug\netcoreapp2.2\Descobrir quem é de  maior.deps.json
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\bin\Debug\netcoreapp2.2\Descobrir quem é de  maior.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\bin\Debug\netcoreapp2.2\Descobrir quem é de  maior.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\bin\Debug\netcoreapp2.2\Descobrir quem é de  maior.dll
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\bin\Debug\netcoreapp2.2\Descobrir quem é de  maior.pdb
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\obj\Debug\netcoreapp2.2\Descobrir quem é de  maior.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\obj\Debug\netcoreapp2.2\Descobrir quem é de  maior.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\obj\Debug\netcoreapp2.2\Descobrir quem é de  maior.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\obj\Debug\netcoreapp2.2\Descobrir quem é de  maior.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\obj\Debug\netcoreapp2.2\Descobrir quem é de  maior.dll
+C:\Users\fic\Desktop\Csharp-codexp\Descobrir quem é de  maior\obj\Debug\netcoreapp2.2\Descobrir quem é de  maior.pdb
