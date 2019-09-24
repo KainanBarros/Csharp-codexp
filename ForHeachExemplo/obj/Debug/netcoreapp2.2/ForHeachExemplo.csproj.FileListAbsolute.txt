@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\obj\Debug\netcoreapp2.2\ForHeachExemplo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\obj\Debug\netcoreapp2.2\ForHeachExemplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\obj\Debug\netcoreapp2.2\ForHeachExemplo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\obj\Debug\netcoreapp2.2\ForHeachExemplo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\bin\Debug\netcoreapp2.2\ForHeachExemplo.deps.json
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\bin\Debug\netcoreapp2.2\ForHeachExemplo.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\bin\Debug\netcoreapp2.2\ForHeachExemplo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\bin\Debug\netcoreapp2.2\ForHeachExemplo.dll
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\bin\Debug\netcoreapp2.2\ForHeachExemplo.pdb
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\obj\Debug\netcoreapp2.2\ForHeachExemplo.dll
+C:\Users\fic\Desktop\Csharp-codexp\ForHeachExemplo\obj\Debug\netcoreapp2.2\ForHeachExemplo.pdb

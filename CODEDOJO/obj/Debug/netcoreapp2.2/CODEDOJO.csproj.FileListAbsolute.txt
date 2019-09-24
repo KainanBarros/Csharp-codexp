@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\obj\Debug\netcoreapp2.2\CODEDOJO.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\obj\Debug\netcoreapp2.2\CODEDOJO.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\obj\Debug\netcoreapp2.2\CODEDOJO.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\obj\Debug\netcoreapp2.2\CODEDOJO.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\bin\Debug\netcoreapp2.2\CODEDOJO.deps.json
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\bin\Debug\netcoreapp2.2\CODEDOJO.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\bin\Debug\netcoreapp2.2\CODEDOJO.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\bin\Debug\netcoreapp2.2\CODEDOJO.dll
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\bin\Debug\netcoreapp2.2\CODEDOJO.pdb
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\obj\Debug\netcoreapp2.2\CODEDOJO.dll
+C:\Users\fic\Desktop\Csharp-codexp\CODEDOJO\obj\Debug\netcoreapp2.2\CODEDOJO.pdb

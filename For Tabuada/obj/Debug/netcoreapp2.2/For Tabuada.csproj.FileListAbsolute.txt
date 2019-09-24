@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\bin\Debug\netcoreapp2.2\For Tabuada.deps.json
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\bin\Debug\netcoreapp2.2\For Tabuada.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\bin\Debug\netcoreapp2.2\For Tabuada.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\bin\Debug\netcoreapp2.2\For Tabuada.dll
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\bin\Debug\netcoreapp2.2\For Tabuada.pdb
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\obj\Debug\netcoreapp2.2\For Tabuada.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\obj\Debug\netcoreapp2.2\For Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\obj\Debug\netcoreapp2.2\For Tabuada.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\obj\Debug\netcoreapp2.2\For Tabuada.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\obj\Debug\netcoreapp2.2\For Tabuada.dll
+C:\Users\fic\Desktop\Csharp-codexp\For Tabuada\obj\Debug\netcoreapp2.2\For Tabuada.pdb
