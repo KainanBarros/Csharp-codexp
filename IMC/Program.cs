@@ -17,6 +17,7 @@ namespace IMC
             int sexof = 0;
             int idadem = 0;
             int idadef = 0;
+            int opcoes = 0;
             
             for(int i = 0; i <4; i++){
                 
@@ -31,9 +32,29 @@ namespace IMC
 
                 Console.WriteLine("Digite altura");
                 altura [i] = double.Parse(Console.ReadLine());
+                    
+                do{
 
                 Console.WriteLine("Digite o Sexo M/F");
-                sexo [i] = Console.ReadLine().ToUpper();
+                Console.WriteLine("Escolha uma opção:");
+                Console.WriteLine("-------------MENU-------------");
+                Console.WriteLine("1 - Masculino");
+                Console.WriteLine("2 - Feminino");
+                Console.WriteLine("------------------------------");
+                opcoes= int.Parse(Console.ReadLine().ToUpper());
+                
+                switch(opcoes){
+                    case 1:
+                    sexo [i] = "M";
+                    break;
+
+                    case 2:
+                    sexo [i] = "F";
+                    break;
+                }
+
+
+                }while(opcoes !=1 && opcoes !=2);  
                 
             }//Fim do for!!!
             
