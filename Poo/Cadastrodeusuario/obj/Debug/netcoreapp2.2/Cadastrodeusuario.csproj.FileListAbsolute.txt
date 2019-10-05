@@ -1,0 +1,11 @@
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\bin\Debug\netcoreapp2.2\Cadastrodeusuario.deps.json
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\bin\Debug\netcoreapp2.2\Cadastrodeusuario.runtimeconfig.json
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\bin\Debug\netcoreapp2.2\Cadastrodeusuario.runtimeconfig.dev.json
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\bin\Debug\netcoreapp2.2\Cadastrodeusuario.dll
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\bin\Debug\netcoreapp2.2\Cadastrodeusuario.pdb
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\obj\Debug\netcoreapp2.2\Cadastrodeusuario.csprojAssemblyReference.cache
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\obj\Debug\netcoreapp2.2\Cadastrodeusuario.csproj.CoreCompileInputs.cache
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\obj\Debug\netcoreapp2.2\Cadastrodeusuario.AssemblyInfoInputs.cache
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\obj\Debug\netcoreapp2.2\Cadastrodeusuario.AssemblyInfo.cs
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\obj\Debug\netcoreapp2.2\Cadastrodeusuario.dll
+C:\Users\fic\Pictures\Poo\Cadastrodeusuario\obj\Debug\netcoreapp2.2\Cadastrodeusuario.pdb

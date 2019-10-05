@@ -1,0 +1,11 @@
+C:\Users\fic\Pictures\Poo\VigadoresMVC\bin\Debug\netcoreapp2.2\VigadoresMVC.deps.json
+C:\Users\fic\Pictures\Poo\VigadoresMVC\bin\Debug\netcoreapp2.2\VigadoresMVC.runtimeconfig.json
+C:\Users\fic\Pictures\Poo\VigadoresMVC\bin\Debug\netcoreapp2.2\VigadoresMVC.runtimeconfig.dev.json
+C:\Users\fic\Pictures\Poo\VigadoresMVC\bin\Debug\netcoreapp2.2\VigadoresMVC.dll
+C:\Users\fic\Pictures\Poo\VigadoresMVC\bin\Debug\netcoreapp2.2\VigadoresMVC.pdb
+C:\Users\fic\Pictures\Poo\VigadoresMVC\obj\Debug\netcoreapp2.2\VigadoresMVC.csprojAssemblyReference.cache
+C:\Users\fic\Pictures\Poo\VigadoresMVC\obj\Debug\netcoreapp2.2\VigadoresMVC.csproj.CoreCompileInputs.cache
+C:\Users\fic\Pictures\Poo\VigadoresMVC\obj\Debug\netcoreapp2.2\VigadoresMVC.AssemblyInfoInputs.cache
+C:\Users\fic\Pictures\Poo\VigadoresMVC\obj\Debug\netcoreapp2.2\VigadoresMVC.AssemblyInfo.cs
+C:\Users\fic\Pictures\Poo\VigadoresMVC\obj\Debug\netcoreapp2.2\VigadoresMVC.dll
+C:\Users\fic\Pictures\Poo\VigadoresMVC\obj\Debug\netcoreapp2.2\VigadoresMVC.pdb

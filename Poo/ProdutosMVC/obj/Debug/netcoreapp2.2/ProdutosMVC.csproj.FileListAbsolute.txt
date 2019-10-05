@@ -1,0 +1,11 @@
+C:\Users\fic\Pictures\Poo\ProdutosMVC\bin\Debug\netcoreapp2.2\ProdutosMVC.deps.json
+C:\Users\fic\Pictures\Poo\ProdutosMVC\bin\Debug\netcoreapp2.2\ProdutosMVC.runtimeconfig.json
+C:\Users\fic\Pictures\Poo\ProdutosMVC\bin\Debug\netcoreapp2.2\ProdutosMVC.runtimeconfig.dev.json
+C:\Users\fic\Pictures\Poo\ProdutosMVC\bin\Debug\netcoreapp2.2\ProdutosMVC.dll
+C:\Users\fic\Pictures\Poo\ProdutosMVC\bin\Debug\netcoreapp2.2\ProdutosMVC.pdb
+C:\Users\fic\Pictures\Poo\ProdutosMVC\obj\Debug\netcoreapp2.2\ProdutosMVC.csprojAssemblyReference.cache
+C:\Users\fic\Pictures\Poo\ProdutosMVC\obj\Debug\netcoreapp2.2\ProdutosMVC.csproj.CoreCompileInputs.cache
+C:\Users\fic\Pictures\Poo\ProdutosMVC\obj\Debug\netcoreapp2.2\ProdutosMVC.AssemblyInfoInputs.cache
+C:\Users\fic\Pictures\Poo\ProdutosMVC\obj\Debug\netcoreapp2.2\ProdutosMVC.AssemblyInfo.cs
+C:\Users\fic\Pictures\Poo\ProdutosMVC\obj\Debug\netcoreapp2.2\ProdutosMVC.dll
+C:\Users\fic\Pictures\Poo\ProdutosMVC\obj\Debug\netcoreapp2.2\ProdutosMVC.pdb

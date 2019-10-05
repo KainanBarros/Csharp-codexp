@@ -1,0 +1,11 @@
+C:\Users\fic\Pictures\Poo\PooReforco\bin\Debug\netcoreapp2.2\PooReforco.deps.json
+C:\Users\fic\Pictures\Poo\PooReforco\bin\Debug\netcoreapp2.2\PooReforco.runtimeconfig.json
+C:\Users\fic\Pictures\Poo\PooReforco\bin\Debug\netcoreapp2.2\PooReforco.runtimeconfig.dev.json
+C:\Users\fic\Pictures\Poo\PooReforco\bin\Debug\netcoreapp2.2\PooReforco.dll
+C:\Users\fic\Pictures\Poo\PooReforco\bin\Debug\netcoreapp2.2\PooReforco.pdb
+C:\Users\fic\Pictures\Poo\PooReforco\obj\Debug\netcoreapp2.2\PooReforco.csprojAssemblyReference.cache
+C:\Users\fic\Pictures\Poo\PooReforco\obj\Debug\netcoreapp2.2\PooReforco.csproj.CoreCompileInputs.cache
+C:\Users\fic\Pictures\Poo\PooReforco\obj\Debug\netcoreapp2.2\PooReforco.AssemblyInfoInputs.cache
+C:\Users\fic\Pictures\Poo\PooReforco\obj\Debug\netcoreapp2.2\PooReforco.AssemblyInfo.cs
+C:\Users\fic\Pictures\Poo\PooReforco\obj\Debug\netcoreapp2.2\PooReforco.dll
+C:\Users\fic\Pictures\Poo\PooReforco\obj\Debug\netcoreapp2.2\PooReforco.pdb
